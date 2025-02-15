@@ -1,7 +1,5 @@
 # PCB-and-Job-scheduler
-PCS2 Lab_Assignment 3
-
-Read main.cpp for code
+Refer main.cpp for code
 
 Multi-Processing Simulator
 This program simulates a multi-processing environment with dummy processes, utilizing a Process Control Block (PCB), a long-term scheduler, and a short-term scheduler.
